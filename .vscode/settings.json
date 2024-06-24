@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "window.zoomLevel": 0.1,
+  "editor.fontSize": 14,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.fontSize": 14,
+  "editor.lineHeight": 1.5,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#032a49",
+    "statusBar.background": "#025a36",
+    "activityBar.activeBackground": "#035543",
+    "activityBar.background": "#032350"
+  }
+}
